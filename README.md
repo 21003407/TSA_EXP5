@@ -15,8 +15,8 @@ To Illustrates how to perform time series analysis and decomposition on the mont
 
 ### PROGRAM:
 ```
-Developed By: G Venkata Pavan Kumar
-Reg. No: 212221240013
+Developed By: A joans jay authers
+Reg. No: 212221240019
 ```
 ```python
 import pandas as pd
